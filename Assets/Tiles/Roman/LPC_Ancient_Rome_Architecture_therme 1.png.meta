@@ -396,7 +396,7 @@ TextureImporter:
         width: 16
         height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -404,6 +404,27 @@ TextureImporter:
       bones: []
       spriteID: 6e0902d90ec1b4ccf9c84698e948b9a4
       internalID: 1314011723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC_Ancient_Rome_Architecture_therme 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a994f4ff201a48acbe4c6386c7c233b
+      internalID: -694622844
       vertices: []
       indices: 
       edges: []
@@ -422,6 +443,7 @@ TextureImporter:
       LPC_Ancient_Rome_Architecture_therme 1_0: 1689285642
       LPC_Ancient_Rome_Architecture_therme 1_1: 1664662232
       LPC_Ancient_Rome_Architecture_therme 1_2: 1314011723
+      LPC_Ancient_Rome_Architecture_therme 1_3: -694622844
       LPC_Ancient_Rome_Architecture_therme_0: 50512711
       LPC_Ancient_Rome_Architecture_therme_1: 246765780
       LPC_Ancient_Rome_Architecture_therme_2: 1429235012
