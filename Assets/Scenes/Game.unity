@@ -4245,15 +4245,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1004816381}
   m_CullTransparentMesh: 1
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
 --- !u!1 &1276975826
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD:Assets/Scenes/room1.unity
 --- !u!1 &1045392595
 =======
 --- !u!1 &1276975826
 >>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4261,8 +4267,11 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD:Assets/Scenes/room1.unity
   - component: {fileID: 1045392596}
   - component: {fileID: 1045392598}
@@ -4270,25 +4279,35 @@ GameObject:
   m_Layer: 5
   m_Name: OptionsGame
 =======
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> Stashed changes
   - component: {fileID: 1276975827}
   - component: {fileID: 1276975830}
   - component: {fileID: 1276975829}
   - component: {fileID: 1276975828}
   m_Layer: 0
   m_Name: Button
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
   m_IsActive: 1
 --- !u!224 &1276975827
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD:Assets/Scenes/room1.unity
   m_IsActive: 0
 --- !u!224 &1045392596
@@ -4296,14 +4315,20 @@ GameObject:
   m_IsActive: 1
 --- !u!224 &1276975827
 >>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> Stashed changes
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD:Assets/Scenes/room1.unity
   m_GameObject: {fileID: 1045392595}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -4316,7 +4341,10 @@ RectTransform:
   - {fileID: 1815024667}
   m_Father: {fileID: 242452649}
 =======
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> Stashed changes
   m_GameObject: {fileID: 1276975826}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -4904,32 +4932,45 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1303010439}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
 --- !u!114 &1590191880
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD:Assets/Scenes/room1.unity
 --- !u!114 &1045392597
 =======
 --- !u!114 &1590191880
 >>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD:Assets/Scenes/room1.unity
   m_GameObject: {fileID: 1045392595}
   m_Enabled: 1
@@ -5068,15 +5109,22 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 =======
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> Stashed changes
   m_GameObject: {fileID: 1590191878}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
+>>>>>>> Stashed changes
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
@@ -5087,8 +5135,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD:Assets/Scenes/room1.unity
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
@@ -5102,7 +5153,10 @@ MonoBehaviour:
   m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1063446145
 =======
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> Stashed changes
   m_text: Options
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 73e3471560ffff6429d0242c3114a99b, type: 2}
@@ -5173,18 +5227,25 @@ MonoBehaviour:
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1590191881
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
+>>>>>>> Stashed changes
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
   m_GameObject: {fileID: 1590191878}
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD:Assets/Scenes/room1.unity
   m_GameObject: {fileID: 1063446141}
   m_CullTransparentMesh: 1
@@ -5322,7 +5383,10 @@ CanvasRenderer:
 =======
   m_GameObject: {fileID: 1590191878}
 >>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> Stashed changes
   m_CullTransparentMesh: 1
 --- !u!1001 &1641731600
 PrefabInstance:
@@ -6042,12 +6106,18 @@ SceneRoots:
   - {fileID: 242452649}
   - {fileID: 663950474}
   - {fileID: 8490597989646228970}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/SampleScene.unity
   - {fileID: 2080178585}
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD:Assets/Scenes/room1.unity
   - {fileID: 2044439694}
 =======
   - {fileID: 2080178585}
 >>>>>>> 8f6affd028b7fb580dd005d982706f967147dabf:Assets/Scenes/SampleScene.unity
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes:Assets/Scenes/Game.unity
+=======
+>>>>>>> Stashed changes
