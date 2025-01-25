@@ -4,6 +4,17 @@ using UnityEngine;
 
 public class BadBubbleCntrl : MonoBehaviour
 {
+
+    private ScoreManager scoreManager;
+
+    private void Start()
+    {
+        scoreManager = FindObjectOfType<ScoreManager>();
+        if (scoreManager == null)
+        {
+            Debug.LogError("ScoreManager not found in the scene!");
+        }
+    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "Player")
@@ -21,6 +32,7 @@ public class BadBubbleCntrl : MonoBehaviour
         if (collision.gameObject.CompareTag("Bullet"))
         {
             Destroy(gameObject);
+            scoreManager.AddScore();
             return;
         }
     }
