@@ -17,16 +17,7 @@ public class BubbleBounce : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            Destroy(gameObject);
-            return;
-        }
-        if (collision.gameObject.CompareTag("Bullet"))
-        {
-            Destroy(gameObject);
-            return;
-        }
+       
         var speed = lastVelocity.magnitude;
         var direction = Vector3.Reflect(lastVelocity.normalized, collision.contacts[0].normal);
         rb.velocity = direction * Mathf.Max(speed, 10f);

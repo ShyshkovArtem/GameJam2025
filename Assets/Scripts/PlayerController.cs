@@ -94,4 +94,6 @@ public class PlayerController : MonoBehaviour
         input.y = Input.GetAxisRaw("Vertical");
         input.Normalize();
     }
+
+    
 }
